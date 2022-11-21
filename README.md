@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosuavlTheNuclearDuck
+- 👋 Hi, I’m @Josuavl
 - I really like Minecraft and nukes
 
 <!---

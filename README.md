@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Josuavl
-- I really like Minecraft and nukes
+- 👋 Hello, I’m @Josuavl
+- I Like Gmod And Gnomes
 
 <!---
 Josuavl/Josuavl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

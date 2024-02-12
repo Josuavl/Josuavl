@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Josuavl
-- I Like Gmod And Gnomes
+- Gnomes are good.
 
 <!---
 Josuavl/Josuavl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
